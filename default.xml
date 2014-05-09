@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com" review="" />
+    <default revision="master" remote="origin" />
+    <project path="src/xAMR" name="xCPI/xAMR" />
+    <project path="src/xCairo" name="xCPI/xCairo" />
+    <project path="src/xClib" name="xCPI/xClib" />
+    <project path="src/xC" name="xCPI/xC" />
+    <project path="src/xExpat" name="xCPI/xExpat" />
+    <project path="src/xLua" name="xCPI/xLua" />
+    <project path="src/xMD5" name="xCPI/xMD5" />
+    <project path="src/xPixman" name="xCPI/xPixman" />
+    <project path="src/xPNG" name="xCPI/xPNG" />
+    <project path="src/xRuntime" name="xCPI/xRuntime" />
+    <project path="src/xZlib" name="xCPI/xZlib" />
+</manifest>
