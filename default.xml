@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@211.103.234.234:60100" review="" />
+    <default revision="master" remote="origin" />
+    <project path="src/map" name="sdk/map" />
+</manifest>
